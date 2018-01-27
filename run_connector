@@ -1,0 +1,1 @@
+python pan-nuage/pan-nuage.py --nuage-vsd 10.0.20.14:8443 --nuage-login csproot --nuage-password csproot --nuage-organization csp --nuage-domain 972b46ee-14bd-4080-92c3-4092c8a55915 --vmseries 192.168.2.22 --pan-admin admin --pan-password bridle_migrate_forewarn
