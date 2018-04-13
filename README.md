@@ -1,4 +1,4 @@
-# pan-nuage
+# pan-nuage - For POC purposes only - runs for about 10 hours and then timesout
 
 All credit goes to the Technical Business Development Team
 
